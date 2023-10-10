@@ -1,6 +1,10 @@
-## Oii, sou o  Matheus!!!
+## Oii, sou o  Matheus!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPAssenheimer&show_icons=true&theme=radical)
+- 🔥 Sempre focado em evoluir
+- 💻 Viciado em tecnologia
+- 📚 Faculdade de ADS
+
+<br><br>
 
  ## &nbsp; Experiência nessas tecnologias
 <div style="display: inline_block"><br>
@@ -11,7 +15,9 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
- ##
+<br><br>
+
+ ## Contato
 
  <div> 
 
