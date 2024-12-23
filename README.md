@@ -4,7 +4,7 @@
 - 🔥 Sempre focado em evoluir
 - 💻 Viciado em tecnologia
 - 📚 Faculdade de ADS
-
+- 📚 Faculdade de SI
 <br><br>
 
  ## &nbsp; Experiência nessas tecnologias
