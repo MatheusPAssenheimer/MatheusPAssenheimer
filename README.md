@@ -1,5 +1,5 @@
-## Bem Vindo ao meu perfil!!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusPAsseheimer&color=red" alt="Profile views" /> </p>
+## Bem Vindo ao meu perfil
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusPAsseheimer&color=green" alt="Profile views" /> </p>
 
 - 🔥 Sempre focado em evoluir
 - 💻 Viciado em tecnologia
