@@ -12,7 +12,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width"40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com.br%2Ficons%2Fset%2Fjavascript&psig=AOvVaw32xw5iTafaAdkGMMiHbbTR&ust=1738417853155000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjtga2NoIsDFQAAAAAdAAAAABAE">
+  <img align="center" alt="JavaScript" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
